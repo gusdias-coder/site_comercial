@@ -1,7 +1,4 @@
-# Sistema operacional
-.DS_Store
-Thumbs.db
-
-# Editores
-.vscode/
-.idea/
+node_modules/
+.next/
+out/
+*.tsbuildinfo
